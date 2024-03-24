@@ -3,7 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m previously worked on ...React Js Node Js
+- 🔭 I’m previously worked on ...React Js, Node Js
+- 🌱 I'm currently working on ...Python, FastAPI
 - 🌱 I’m currently learning ...Machine Learning
 - 👯 I’m looking to collaborate on ...Machine Learning
 - 🤔 I’m looking for help with ...
