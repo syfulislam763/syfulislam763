@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://i.ibb.co/w5VS6xr/skill.jpg" alt="Syful Islam Banner" width="100%" />
 </p>
-
+<div>
+  <p>Snapshot of technological knowledge</p>
+</div>
 
 ---
 
-### 👨‍💻 Syful Islam — React Native Developer(android&ios) & AI and Research Enthusiast
+# 👨‍💻 Syful Islam — React Native Developer(android&ios) & AI and Research Enthusiast
 
 ---
 
