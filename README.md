@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/w5VS6xr/skill.jpg" alt="Syful Islam Banner" width="100%" />
+</p>
 # 👨‍💻 Syful Islam — Developer & Research Enthusiast
 
 ---
