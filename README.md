@@ -1,13 +1,27 @@
 <p align="center">
   <img src="https://i.ibb.co/w5VS6xr/skill.jpg" alt="Syful Islam Banner" width="100%" />
 </p>
-# 👨‍💻 Syful Islam — Developer & Research Enthusiast
+---
+
+###👨‍💻 Syful Islam — React Native Developer(android&ios) & AI and Research Enthusiast
 
 ---
 
 ## 🧾 Summary
 
-I'm a passionate and self-motivated developer with hands-on experience in both **frontend development** and **machine learning research**. With a strong foundation in **React**, **Python**, and **FastAPI**, I enjoy solving real-world problems using code and data. My recent focus is on **gesture recognition** and AI-driven applications.
+I am a dedicated and skilled React Native developer with over a year of hands-on experience crafting high-performance, cross-platform mobile applications for both Android and iOS. My focus lies in building sleek, scalable user interfaces, managing complex navigation flows with React Navigation, handling global state using Context API, and deploying smoothly using both Expo and bare workflows. I specialize in writing clean, modular, and maintainable JavaScript/TypeScript code — always with a sharp eye on performance, accessibility, and pixel-perfect design. From smooth animations to deep API integrations, I bring both technical depth and user-centric thinking to every mobile project I touch.
+
+While React Native is where I currently thrive, I also have practical hands-on experience with the MERN stack, gained through building three independent full-stack projects in the past. Though this experience dates back a few years, it gave me a solid foundation in working with MongoDB, Express.js, React.js, and Node.js. I’m comfortable setting up RESTful APIs, designing clean UI components in React, and structuring MongoDB schemas. While it may not be my current focus, this experience contributes to my understanding of full-stack architecture and backend integration.
+
+In addition to JavaScript-based development, I’ve also explored backend engineering through two projects built using FastAPI, a modern and high-performance Python web framework. I paired FastAPI with MySQL to create robust backend systems with efficient data modeling, strong validation, and async support. I’m comfortable working with relational databases, writing optimized SQL queries, and designing API endpoints that are both scalable and secure.
+
+My journey has also taken me into the world of Artificial Intelligence and Machine Learning. I’ve worked with scikit-learn for traditional ML workflows and TensorFlow for deep learning-based tasks. I enjoy transforming data into insight—whether through classification, computer vision, or predictive modeling—by building complete ML pipelines. I approach ML implementation with a research-driven mindset, ensuring that the models I build are not only functional but well-founded in theory.
+
+As part of my academic and applied AI exploration, I’ve authored and published two research papers in the International Journal of Computer Applications (IJCA), both centered around Hand Gesture Recognition. These publications reflect my ability to blend technical innovation with academic precision. I explored gesture recognition systems using AI techniques, pushing the boundary of natural user interaction through machine learning and vision.
+
+Beyond development and research, I am deeply passionate about problem solving. I’ve tackled over 700 algorithmic challenges across platforms like LeetCode, Codeforces, and HackerRank. My experience in Data Structures and Algorithms sharpens my ability to write efficient, optimized, and scalable code. It’s a mindset that feeds directly into how I approach debugging, architecture, and performance in real-world software systems.
+
+In short, I consider myself versatile, dynamic, and deeply driven. React Native is my home base — where I deliver tangible, delightful mobile experiences. But my foundation across backend, full-stack, machine learning, and competitive programming gives me the agility to contribute meaningfully to any technical challenge. I’m not just a developer—I’m a builder, a thinker, and a constant learner ready to adapt, evolve, and deliver.
 
 ---
 
