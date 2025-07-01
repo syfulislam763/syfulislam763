@@ -1,56 +1,89 @@
-# 👋 Hi there! I'm Syful Islam
-
-Welcome to my GitHub profile! I'm a passionate developer focused on building efficient, scalable, and user-friendly applications.
+# 👨‍💻 Syful Islam — Developer & Research Enthusiast
 
 ---
 
-## 🚀 About Me
+## 🧾 Summary
 
-- 🔭 **Previously worked on**: React.js, Node.js  
-- 🌱 **Currently working with**: Python, FastAPI  
-- 🤖 **Learning**: Machine Learning, AI & Data Science  
-- 👯 **Looking to collaborate on**: ML-based projects and smart automation tools  
-- 💬 **Ask me about**: React Native, FastAPI, Machine Learning basics, REST APIs  
-- 📫 **Reach me**: [Facebook](https://www.facebook.com/profile.php?id=100078841337534)  
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: I love turning complex ideas into simple, functional apps!
+I'm a passionate and self-motivated developer with hands-on experience in both **frontend development** and **machine learning research**. With a strong foundation in **React**, **Python**, and **FastAPI**, I enjoy solving real-world problems using code and data. My recent focus is on **gesture recognition** and AI-driven applications.
+
+---
+
+## 💼 Work Experience
+
+### 🔬 Research Assistant — CRC (Consortium Research Center)  
+**🗓 Jun 2024 – May 2025 · Remote | Dhaka, Bangladesh**  
+- Research Topic: **Hand Gesture Recognition and Visual Estimations**  
+- Worked with **Python**, **Machine Learning**, and computer vision techniques  
+- Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods  
+
+---
+
+### 🖥️ Frontend Developer Intern — iBOS Limited (AKIJ Group)  
+**🗓 Jun 2021 – Aug 2021 · Onsite | Dhaka, Bangladesh**  
+- Built UI components and dashboards using **React.js** and **Tailwind CSS**  
+- Collaborated with backend team to implement API-integrated features  
+- Contributed to ERP modules and internal product UI flows  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-`JavaScript` `Python` `SQL` `HTML` `CSS`
+`Python` `JavaScript` `SQL` `HTML` `CSS`
 
-**Frameworks & Libraries**  
-`React.js` `React Native` `Node.js` `Express.js` `FastAPI` `Tailwind CSS`
+**Frontend**  
+`React.js` `React Native` `Tailwind CSS`
 
-**Databases & Tools**  
-`MongoDB` `PostgreSQL` `SQLite`  
-`Git & GitHub` `Postman` `VS Code` `Figma`
+**Backend & API**  
+`FastAPI` `Node.js` `Express.js`
 
-**Machine Learning Tools**  
-`Scikit-learn` `TensorFlow` `Pandas` `NumPy` `Matplotlib`
+**Databases**  
+`MongoDB` `PostgreSQL` `SQLite`
 
----
+**ML & Data Tools**  
+`scikit-learn` `TensorFlow` `Pandas` `NumPy` `Matplotlib`
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syful151&show_icons=true&theme=radical" alt="Syful's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syful151&layout=compact&theme=radical" height="165">
-</p>
+**Tools & Platforms**  
+`Git & GitHub` `Figma` `Postman` `VS Code` `Google Colab`  
 
 ---
 
-## 📌 Featured Projects
+## 🏅 Licenses & Certifications
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🎙️ Audio Recorder App | A minimal React Native app using `expo-av` to record audio | React Native, Expo |
-| 🏘️ Real Estate Price Predictor | ML model that predicts apartment prices based on input features | Python, Scikit-learn |
-| ✍️ Gesture Recognition AI | Deep learning model combining CNN, GCN, and LSTM for sign language | TensorFlow, Python |
+- ✅ [Machine Learning](https://coursera.org/share/ML-link-example) – Coursera (Expected completion: 2025)  
+- ✅ React Native Fundamentals – Internal Training (iBOS Limited, 2021)  
+- ✅ Git & GitHub for Developers – YouTube Bootcamp  
 
 ---
 
-_Thanks for visiting! Let's build something amazing together 🚀_
+## 🎓 Academic Results
+
+| Degree | Institute | Year | Result |
+|--------|-----------|------|--------|
+| B.Sc. (Honors), Computer Science | [Your University Name] | Ongoing | [Your CGPA] |
+| HSC (Science) | [College Name] | [Year] | GPA: 5.00 |
+| SSC (Science) | [School Name] | [Year] | GPA: 5.00 |
+
+> _*Feel free to update academic info with real data*_
+
+---
+
+## 🌐 Language Fluency
+
+| Language   | Speaking | Reading | Writing | Listening |
+|------------|----------|---------|---------|-----------|
+| **Bengali 🇧🇩** | Native     | Native  | Native  | Native     |
+| **English 🇬🇧** | Full Professional | Full Professional | Full Professional | Full Professional |
+| **Hindi 🇮🇳**   | Limited Working | Basic   | Basic   | Limited Working |
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: [facebook.com/syful151](https://www.facebook.com/profile.php?id=100078841337534)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 Portfolio Site: (Coming Soon)
+
+---
+
+_Thank you for visiting! Let's connect and build something impactful together 🚀_
