@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Syful Islam — React Native Developer(android&ios) & AI and Research Enthusiast
+## 👨‍💻 Syful Islam — React Native Developer(android|ios) & AI and Research Enthusiast
 
 ---
 
@@ -22,8 +22,8 @@ In addition to JavaScript-based development, I’ve also explored backend engine
 My journey has also taken me into the world of Artificial Intelligence and Machine Learning. I’ve worked with scikit-learn for traditional ML workflows and TensorFlow for deep learning-based tasks. I enjoy transforming data into insight—whether through classification, computer vision, or predictive modeling—by building complete ML pipelines. I approach ML implementation with a research-driven mindset, ensuring that the models I build are not only functional but well-founded in theory.
 
 As part of my academic and journey in AI and machine learning, I’ve had the opportunity to publish two research papers in the [International Journal of Computer Applications (IJCA)](https://www.ijcaonline.org/), both focused on advancing Hand Gesture Recognition (HGR) — a field I’m deeply passionate about. These projects reflect my ability to bridge technical innovation with real-world challenges in human-computer interaction.
-In my first paper, [“Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data,”](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)_ I introduced a fusion-based model that combines RGB images, depth data, and skeleton information to improve gesture recognition in noisy, real-world scenarios. Using MobileNetV3, Graph Convolutional Networks (GCNs), and LSTM with attention, the system was designed to perform well even with limited and imperfect data, showing promising results with minimal preprocessing.
-The second paper, [“Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends,”](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/) is a comprehensive survey that analyzes over 250 research studies published between 1995 and 2024. It maps out how HGR techniques have evolved—from early rule-based systems to today’s deep learning and hybrid architectures like 3D CNNs and Transformer-based models. It also dives into the challenges of building real-time, scalable systems for mobile and embedded platforms.
+In my first paper, [“Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data”](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)_ I introduced a fusion-based model that combines RGB images, depth data, and skeleton information to improve gesture recognition in noisy, real-world scenarios. Using MobileNetV3, Graph Convolutional Networks (GCNs), and LSTM with attention, the system was designed to perform well even with limited and imperfect data, showing promising results with minimal preprocessing.
+The second paper, [“Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends”](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/) is a comprehensive survey that analyzes over 250 research studies published between 1995 and 2024. It maps out how HGR techniques have evolved—from early rule-based systems to today’s deep learning and hybrid architectures like 3D CNNs and Transformer-based models. It also dives into the challenges of building real-time, scalable systems for mobile and embedded platforms.
 Both publications represent the blend of research, experimentation, and applied AI that drives my work. They’ve not only deepened my technical expertise but also strengthened my interest in creating solutions that make human-computer interaction more natural and accessible.
 
 Beyond development and research, I’ve always been deeply passionate about problem solving. Over the years, I’ve solved more than 700 challenges on platforms like [Codeforces](https://codeforces.com/profile/vehemence), [LeetCode](https://leetcode.com/u/syfulislam763/), and [Edabit](https://edabit.com/user/bTXKg7WFmPJcEsdab), which has helped me build a strong foundation in Data Structures and Algorithms. This problem-solving mindset plays a big role in how I approach real-world software—whether it's debugging, system architecture, or performance optimization. I’ve also had the honor of qualifying twice for the [ICPC](https://icpc.global/) Dhaka Regional Programming Contest in [2023](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing) and [2024](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing), which has been a rewarding experience and a testament to my competitive programming journey. These challenges continue to sharpen my thinking, and I bring that same energy and precision into every project I work on.
@@ -34,11 +34,20 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 ## 💼 Work Experience
 
+### 📱 React Native Developer — SparkTech Agency  
+**🗓 May 2025 – Present · Onsite | Dhaka, Bangladesh**  
+- Developing scalable mobile applications using **React Native**  
+- Collaborating closely with **designers** and **backend engineers** to implement seamless **UI/UX**  
+- Integrating **REST APIs** and optimizing performance across **Android** and **iOS** platforms  
+- Maintaining code quality through **reusable components** and **state management** best practices  
+
+
 ### 🔬 Research Assistant — CRC (Consortium Research Center)  
 **🗓 Jun 2024 – May 2025 · Remote | Dhaka, Bangladesh**  
-- Research Topic: **Hand Gesture Recognition and Visual Estimations**  
+- Research Topic: **Hand Gesture Recognition and Computer Vision**  
 - Worked with **Python**, **Machine Learning**, and computer vision techniques  
-- Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods  
+- Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods
+- [Letter of Recommendation](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing)
 
 ---
 
