@@ -78,13 +78,15 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 ---
 
-_## 🏅 Licenses & Certifications
+<!--
+## 🏅 Licenses & Certifications
 
 - ✅ [Machine Learning](https://coursera.org/share/ML-link-example) – Coursera (Expected completion: 2025)  
 - ✅ React Native Fundamentals – Internal Training (iBOS Limited, 2021)  
-- ✅ Git & GitHub for Developers – YouTube Bootcamp  _
+- ✅ Git & GitHub for Developers – YouTube Bootcamp 
 
 ---
+-->
 
 ## 🎓 Academic Results
 
@@ -94,7 +96,6 @@ _## 🏅 Licenses & Certifications
 | HSC (Science) | Ideal College, Dhanmondi,Dhaka | 2019 | GPA: 3.75 |
 
 
-> _*Feel free to update academic info with real data*_
 
 ---
 
