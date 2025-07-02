@@ -92,7 +92,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 | Degree | Institute | Year | Result |
 |--------|-----------|------|--------|
-| B.Sc. (Honors), Computer Science | National University(Professional) | Ongoing(8 semester) | CGPA: 3.30 |
+| B.Sc. (Honors), Computer Science | National University(Professional) | 2025 | CGPA: 3.30 |
 | HSC (Science) | Ideal College, Dhanmondi,Dhaka | 2019 | GPA: 3.75 |
 
 
@@ -103,8 +103,8 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 | Language   | Speaking | Reading | Writing | Listening |
 |------------|----------|---------|---------|-----------|
-| **Bengali 🇧🇩** | Native     | Native  | Native  | Native     |
-| **English 🇬🇧** | Intermediate | Professional | Professional | Professional |
+| **Bengali** | Native     | Native  | Native  | Native     |
+| **English** | Intermediate | Professional | Professional | Professional |
 
 
 ---
