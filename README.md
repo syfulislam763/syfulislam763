@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Syful Islam — React Native Developer(android|ios) & AI and Research Enthusiast
+## 👨‍💻 Syful Islam — React Native Developer ( android | ios ) & AI and Research Enthusiast
 
 ---
 
@@ -41,15 +41,12 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 - Integrating **REST APIs** and optimizing performance across **Android** and **iOS** platforms  
 - Maintaining code quality through **reusable components** and **state management** best practices  
 
-
 ### 🔬 Research Assistant — CRC (Consortium Research Center)  
 **🗓 Jun 2024 – May 2025 · Remote | Dhaka, Bangladesh**  
 - Research Topic: **Hand Gesture Recognition and Computer Vision**  
 - Worked with **Python**, **Machine Learning**, and computer vision techniques  
 - Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods
 - [Letter of Recommendation](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing)
-
----
 
 ### 🖥️ Frontend Developer Intern — iBOS Limited (AKIJ Group)  
 **🗓 Jun 2021 – Aug 2021 · Onsite | Dhaka, Bangladesh**  
@@ -62,7 +59,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `SQL` `HTML` `CSS`
+`Python` `JavaScript` `C/C++` `SQL`
 
 **Frontend**  
 `React.js` `React Native` `Tailwind CSS`
@@ -71,21 +68,21 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 `FastAPI` `Node.js` `Express.js`
 
 **Databases**  
-`MongoDB` `PostgreSQL` `SQLite`
+`MongoDB` `MySQL` 
 
 **ML & Data Tools**  
 `scikit-learn` `TensorFlow` `Pandas` `NumPy` `Matplotlib`
 
 **Tools & Platforms**  
-`Git & GitHub` `Figma` `Postman` `VS Code` `Google Colab`  
+`Git & GitHub` `Postman` `VS Code` `Google Colab`  
 
 ---
 
-## 🏅 Licenses & Certifications
+_## 🏅 Licenses & Certifications
 
 - ✅ [Machine Learning](https://coursera.org/share/ML-link-example) – Coursera (Expected completion: 2025)  
 - ✅ React Native Fundamentals – Internal Training (iBOS Limited, 2021)  
-- ✅ Git & GitHub for Developers – YouTube Bootcamp  
+- ✅ Git & GitHub for Developers – YouTube Bootcamp  _
 
 ---
 
@@ -93,9 +90,9 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 | Degree | Institute | Year | Result |
 |--------|-----------|------|--------|
-| B.Sc. (Honors), Computer Science | [Your University Name] | Ongoing | [Your CGPA] |
-| HSC (Science) | [College Name] | [Year] | GPA: 5.00 |
-| SSC (Science) | [School Name] | [Year] | GPA: 5.00 |
+| B.Sc. (Honors), Computer Science | National University(Professional) | Ongoing(8 semester) | CGPA: 3.30 |
+| HSC (Science) | Ideal College, Dhanmondi,Dhaka | 2019 | GPA: 3.75 |
+
 
 > _*Feel free to update academic info with real data*_
 
@@ -106,16 +103,19 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 | Language   | Speaking | Reading | Writing | Listening |
 |------------|----------|---------|---------|-----------|
 | **Bengali 🇧🇩** | Native     | Native  | Native  | Native     |
-| **English 🇬🇧** | Full Professional | Full Professional | Full Professional | Full Professional |
-| **Hindi 🇮🇳**   | Limited Working | Basic   | Basic   | Limited Working |
+| **English 🇬🇧** | Intermediate | Professional | Professional | Professional |
+
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [facebook.com/syful151](https://www.facebook.com/profile.php?id=100078841337534)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio Site: (Coming Soon)
+- 💼 LinkedIn: [linkedin.com/syful-islam/](https://www.linkedin.com/in/dev-syful-islam/)
+- 📧 Email: [dev.syfulislam@gmail.com](dev.syfulislam@gmail.com)
+- 📞 Phone: +8801782788050 |  +8801519609744
+- 💬 WhatsApp: +8801519609744
+
+
 
 ---
 
