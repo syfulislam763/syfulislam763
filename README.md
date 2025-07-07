@@ -42,7 +42,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 - Maintaining code quality through **reusable components** and **state management** best practices  
 
 ### 🔬 Research Assistant — CRC (Consortium Research Center)  
-**🗓 Jun 2024 – May 2025 · Remote | Dhaka, Bangladesh**  
+**🗓 Jun 2024 – Apr 2025 · Remote | Dhaka, Bangladesh**  
 - Research Topic: **Hand Gesture Recognition and Computer Vision**  
 - Worked with **Python**, **Machine Learning**, and computer vision techniques  
 - Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods
