@@ -50,7 +50,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 ### 🖥️ Frontend Developer Intern — iBOS Limited (AKIJ Group)  
 **🗓 Jun 2021 – Aug 2021 · Onsite | Dhaka, Bangladesh**  
-- Built UI components and dashboards using **React.js** and **Tailwind CSS**  
+- Built UI components for mobile using **React Native**
 - Collaborated with backend team to implement API-integrated features  
 - Contributed to ERP modules and internal product UI flows  
 
