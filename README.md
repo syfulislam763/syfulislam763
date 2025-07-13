@@ -76,17 +76,16 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 **Tools & Platforms**  
 `Git & GitHub` `Postman` `VS Code` `Google Colab`  
 
----
 
-<!--
 ## 🏅 Licenses & Certifications
 
-- ✅ [Machine Learning](https://coursera.org/share/ML-link-example) – Coursera (Expected completion: 2025)  
-- ✅ React Native Fundamentals – Internal Training (iBOS Limited, 2021)  
-- ✅ Git & GitHub for Developers – YouTube Bootcamp 
+- ✅ [Gemini API by Google](https://www.udacity.com/certificate/e/10962544-41e5-11ef-9ff4-17ea751e3694) – Develop job-ready digital skills with Udacity.  
+- ✅ [2023 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing)
+- ✅ [2024 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing)
+- ✅ [Research Assistant](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing) – CRC (Consortium Research Center) 
+- ✅ [Python](https://www.hackerrank.com/certificates/68977199c3f9) – HackerRank
+- ✅ [SQL](https://www.hackerrank.com/certificates/f57562d3563c) – HackerRank
 
----
--->
 
 ## 🎓 Academic Results
 
