@@ -76,6 +76,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 **Tools & Platforms**  
 `Git & GitHub` `Postman` `VS Code` `Google Colab`  
 
+---
 
 ## 🏅 Licenses & Certifications
 
@@ -86,6 +87,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 - ✅ [Python](https://www.hackerrank.com/certificates/68977199c3f9) – HackerRank
 - ✅ [SQL](https://www.hackerrank.com/certificates/f57562d3563c) – HackerRank
 
+---
 
 ## 🎓 Academic Results
 
