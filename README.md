@@ -80,7 +80,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 ## 🏅 Licenses & Certifications
 
-- ✅ [Gemini API by Google](https://www.udacity.com/certificate/e/10962544-41e5-11ef-9ff4-17ea751e3694) – Job-ready digital skills with Udacity.  
+- ✅ [Gemini API by Google](https://drive.google.com/file/d/1rFTR37fGswoTCdMk7oXDbIF2vWfMvusm/view?usp=sharing) – Job-ready digital skills with Udacity.  
 - ✅ [2023 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing)
 - ✅ [2024 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing)
 - ✅ [Research Assistant](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing) – CRC (Consortium Research Center) 
