@@ -11,7 +11,7 @@
 
 ---
 
-## 🧾 About Me
+## 🧾 Career Summary
 
 I'm a versatile and forward-thinking developer with over a year of hands-on experience in crafting high-performance, cross-platform mobile applications using React Native. I specialize in building elegant, scalable user interfaces and managing complex navigation flows with React Navigation and Context API. Whether deploying with Expo or going bare-metal, I bring both technical depth and design precision to every project.
 
