@@ -48,7 +48,7 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 - Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods
 - [Letter of Recommendation](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing)
 
-### 🖥️ Frontend Developer Intern — iBOS Limited (AKIJ Group)  
+### 🖥️ Frontend Developer Intern(React Native) — iBOS Limited (AKIJ Group)  
 **🗓 Jun 2021 – Aug 2021 · Onsite | Dhaka, Bangladesh**  
 - Built UI components for mobile using **React Native**
 - Collaborated with backend team to implement API-integrated features  
