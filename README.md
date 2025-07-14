@@ -13,22 +13,43 @@
 
 ## 🧾 About Me
 
-I have over a year of practical experience creating high-performing, cross-platform mobile applications for iOS and Android as a committed and proficient React Native developer. Building slick, scalable user interfaces, maintaining global state with Context API, managing intricate navigation flows with React Navigation, and easily deploying with both Expo and bare processes are my main areas of expertise. My area of expertise is designing clear, modular, and maintainable JavaScript/TypeScript code, always keeping accessibility, performance, and pixel-perfect design in mind. I approach every mobile project I work on with both technical depth and user-centric thinking, from fluid animations to intricate API connections.
+I'm a versatile and forward-thinking developer with over a year of hands-on experience in crafting high-performance, cross-platform mobile applications using React Native. I specialize in building elegant, scalable user interfaces and managing complex navigation flows with React Navigation and Context API. Whether deploying with Expo or going bare-metal, I bring both technical depth and design precision to every project.
 
-Even while I presently work best with React Native, I have three separate full-stack projects under my belt that have given me real-world experience with the MERN stack. I gained a strong foundation in dealing with MongoDB, Express.js, React.js, and Node.js despite the fact that this experience is several years old. Setting up RESTful APIs, creating tidy React UI elements, and organizing MongoDB schemas are all things I feel comfortable doing. This experience helps me better grasp full-stack architecture and backend integration, even though it may not be my current area of interest.
+Beyond mobile, I have a strong foundation in full-stack development with the MERN stack, backend engineering with FastAPI and MySQL, and machine learning with TensorFlow and scikit-learn. I’ve published peer-reviewed research on multimodal gesture recognition systems, reflecting my passion for building AI-powered, human-centric technology.
 
-In addition to Python-based development, I’ve also explored backend engineering through two projects built using FastAPI, a modern and high-performance Python web framework. I paired FastAPI with MySQL to create robust backend systems with efficient data modeling, strong validation, and async support. I’m comfortable working with relational databases, writing optimized SQL queries, and designing API endpoints that are both scalable and secure.
+My background also includes a deep commitment to problem solving — honed through solving 700+ challenges on competitive programming platforms and qualifying twice for the ICPC Dhaka Regional Contest. I bring that same focus and curiosity into every system I design, debug, and deploy.
 
-My journey has also taken me into the world of Artificial Intelligence and Machine Learning. I’ve worked with scikit-learn for traditional ML workflows and TensorFlow for deep learning-based tasks. I enjoy transforming data into insight—whether through classification, computer vision, or predictive modeling—by building complete ML pipelines. I approach ML implementation with a research-driven mindset, ensuring that the models I build are not only functional but well-founded in theory.
+At my core, I’m not just a mobile developer — I’m a builder, a thinker, and a relentless learner who thrives at the intersection of code, creativity, and impact.
 
-As part of my academic and journey in AI and machine learning, I’ve had the opportunity to publish two research papers in the [International Journal of Computer Applications (IJCA)](https://www.ijcaonline.org/), both focused on advancing Hand Gesture Recognition (HGR) — a field I’m deeply passionate about. These projects reflect my ability to bridge technical innovation with real-world challenges in human-computer interaction.
-In my first paper, [“Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data”](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)_ I introduced a fusion-based model that combines RGB images, depth data, and skeleton information to improve gesture recognition in noisy, real-world scenarios. Using MobileNetV3, Graph Convolutional Networks (GCNs), and LSTM with attention, the system was designed to perform well even with limited and imperfect data, showing promising results with minimal preprocessing.
-The second paper, [“Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends”](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/) is a comprehensive survey that analyzes over 250 research studies published between 1995 and 2024. It maps out how HGR techniques have evolved—from early rule-based systems to today’s deep learning and hybrid architectures like 3D CNNs and Transformer-based models. It also dives into the challenges of building real-time, scalable systems for mobile and embedded platforms.
-Both publications represent the blend of research, experimentation, and applied AI that drives my work. They’ve not only deepened my technical expertise but also strengthened my interest in creating solutions that make human-computer interaction more natural and accessible.
+---
+## Key Highlights
 
-Beyond development and research, I’ve always been deeply passionate about problem solving. Over the years, I’ve solved more than 700 challenges on platforms like [Codeforces](https://codeforces.com/profile/vehemence), [LeetCode](https://leetcode.com/u/syfulislam763/), and [Edabit](https://edabit.com/user/bTXKg7WFmPJcEsdab), which has helped me build a strong foundation in Data Structures and Algorithms. This problem-solving mindset plays a big role in how I approach real-world software—whether it's debugging, system architecture, or performance optimization. I’ve also had the honor of qualifying twice for the [ICPC](https://icpc.global/) Dhaka Regional Programming Contest in [2023](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing) and [2024](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing), which has been a rewarding experience and a testament to my competitive programming journey. These challenges continue to sharpen my thinking, and I bring that same energy and precision into every project I work on.
+### React Native & Mobile Development
+- About 2 year of experience building cross-platform apps for iOS and Android
+- Expert in React Navigation, Context API, and state management
+- Proficient with Expo and bare workflow deployments
+- Strong focus on pixel-perfect UI, performance, and accessibility
+- Skilled in writing clean, modular JavaScript/TypeScript code
+- Experienced with smooth animations and complex API integrations
+  
+### Full-Stack & Backend Engineering
+- Completed 3 full-stack projects using MERN (MongoDB, Express, React, Node)
+- Confident in REST API design, schema modeling, and frontend/backend integration
+- Built 2 scalable backend systems using FastAPI + MySQL, with async support
 
-In short, I consider myself versatile, dynamic, and deeply driven. React Native is my home base — where I deliver tangible, delightful mobile experiences. But my foundation across backend, full-stack, machine learning, and competitive programming gives me the agility to contribute meaningfully to any technical challenge. I’m not just a developer—I’m a builder, a thinker, and a constant learner ready to adapt, evolve, and deliver.
+### AI & Machine Learning
+- Experienced with scikit-learn (traditional ML) and TensorFlow (deep learning)
+- Built end-to-end ML pipelines for classification, computer vision, and predictive tasks
+- Published 2 peer-reviewed research papers on Hand Gesture Recognition (HGR)
+  - [Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)_
+  - [Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/)
+
+### Problem Solving & Competitive Programming
+- Solved 700+ problems across [Codeforces](https://codeforces.com/profile/vehemence), [LeetCode](https://leetcode.com/u/syfulislam763/), and [Edabit](https://edabit.com/user/bTXKg7WFmPJcEsdab)
+- Twice qualified for [ICPC](https://icpc.global/) Dhaka Regional Contest ([2023](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing) & [2024](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing))
+- Deep understanding of Data Structures & Algorithms
+- Strong debugging, architectural thinking, and optimization skills
+
 
 ---
 
@@ -80,12 +101,12 @@ In short, I consider myself versatile, dynamic, and deeply driven. React Native 
 
 ## 🏅 Licenses & Certifications
 
-- ✅ [Gemini API by Google](https://drive.google.com/file/d/1rFTR37fGswoTCdMk7oXDbIF2vWfMvusm/view?usp=sharing) – Job-ready digital skills with Udacity.  
-- ✅ [2023 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing)
-- ✅ [2024 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing)
-- ✅ [Research Assistant](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing) – CRC (Consortium Research Center) 
-- ✅ [Python](https://www.hackerrank.com/certificates/68977199c3f9) – HackerRank
-- ✅ [SQL](https://www.hackerrank.com/certificates/f57562d3563c) – HackerRank
+- [Gemini API by Google](https://drive.google.com/file/d/1rFTR37fGswoTCdMk7oXDbIF2vWfMvusm/view?usp=sharing) – Job-ready digital skills with Udacity.  
+- [2023 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing)
+- [2024 ICPC Asia Dhaka Regional Contest](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing)
+- [Research Assistant](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing) – CRC (Consortium Research Center) 
+- [Python](https://www.hackerrank.com/certificates/68977199c3f9) – HackerRank
+- [SQL](https://www.hackerrank.com/certificates/f57562d3563c) – HackerRank
 
 ---
 
