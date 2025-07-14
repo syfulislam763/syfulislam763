@@ -41,7 +41,7 @@ At my core, I’m not just a mobile developer — I’m a builder, a thinker, an
 - Experienced with scikit-learn (traditional ML) and TensorFlow (deep learning)
 - Built end-to-end ML pipelines for classification, computer vision, and predictive tasks
 - Published 2 peer-reviewed research papers on Hand Gesture Recognition (HGR)
-  - [Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)_
+  - [Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)
   - [Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/)
 
 ### Problem Solving & Competitive Programming
