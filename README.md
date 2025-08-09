@@ -142,4 +142,4 @@ At my core, I’m not just a mobile developer — I’m a builder, a thinker, an
 
 ---
 
-_Thank you for visiting! Let's connect and build something impactful together 🚀_
+__Thank you for visiting! Let's connect and build something impactful together 🚀__
