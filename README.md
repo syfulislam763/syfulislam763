@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 React Native Developer ( android | ios ) & AI and Research Enthusiast | Software Engineer
+## 👨‍💻 Software Engineer & AI and Research Enthusiast | React Native Developer ( android | ios )
 
 ---
 
