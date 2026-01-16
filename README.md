@@ -11,19 +11,6 @@
 
 ---
 
-## 🧾 Career Summary
-
-I'm a versatile and forward-thinking developer with over a year of hands-on experience in crafting high-performance, cross-platform mobile applications using React Native. I specialize in building elegant, scalable user interfaces and managing complex navigation flows with React Navigation and Context API. Whether deploying with Expo or going bare-metal, I bring both technical depth and design precision to every project.
-
-Beyond mobile, I have a strong foundation in full-stack development with the MERN stack, backend engineering with FastAPI and MySQL, and machine learning with TensorFlow and scikit-learn. I’ve published peer-reviewed research on multimodal gesture recognition systems, reflecting my passion for building AI-powered, human-centric technology.
-
-My background also includes a deep commitment to problem solving — honed through solving 700+ challenges on competitive programming platforms and qualifying twice for the ICPC Dhaka Regional Contest. I bring that same focus and curiosity into every system I design, debug, and deploy.
-
-At my core, I’m not just a mobile developer — I’m a builder, a thinker, and a relentless learner who thrives at the intersection of code, creativity, and impact.
-
----
-## Key Highlights
-
 ### React Native & Mobile Development
 - About 2 year of experience building cross-platform apps for iOS and Android
 - Expert in React Navigation, Context API, and state management
@@ -107,16 +94,6 @@ At my core, I’m not just a mobile developer — I’m a builder, a thinker, an
 - [Research Assistant](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing) – CRC (Consortium Research Center) 
 - [Python](https://www.hackerrank.com/certificates/68977199c3f9) – HackerRank
 - [SQL](https://www.hackerrank.com/certificates/f57562d3563c) – HackerRank
-
----
-
-## 🎓 Academic Results
-
-| Degree | Institute | Year | Result |
-|--------|-----------|------|--------|
-| B.Sc. (Honors), Computer Science | National University(Professional) | 2025 | CGPA: 3.30 |
-| HSC (Science) | Ideal College, Dhanmondi,Dhaka | 2019 | GPA: 3.75 |
-
 
 
 ---
