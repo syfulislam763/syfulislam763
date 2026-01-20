@@ -12,7 +12,7 @@
 ---
 
 ### React Native & Mobile Development
-- About 2 year of experience building cross-platform apps for iOS and Android
+- About 3 year of experience building cross-platform apps for iOS and Android
 - Expert in React Navigation, Context API, and state management
 - Proficient with Expo and bare workflow deployments
 - Strong focus on pixel-perfect UI, performance, and accessibility
