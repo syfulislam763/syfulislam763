@@ -98,16 +98,6 @@
 
 ---
 
-## 🌐 Language Fluency
-
-| Language   | Speaking | Reading | Writing | Listening |
-|------------|----------|---------|---------|-----------|
-| **Bengali** | Native     | Native  | Native  | Native     |
-| **English** | Intermediate | Professional | Professional | Professional |
-
-
----
-
 ## 📫 Contact Me
 
 - 💼 LinkedIn: [linkedin.com/syful-islam/](https://www.linkedin.com/in/dev-syful-islam/)
