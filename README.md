@@ -9,58 +9,7 @@
 
 ## 👨‍💻 Software Engineer & AI and Research Enthusiast | React Native Developer ( android | ios )
 
----
 
-### React Native & Mobile Development
-- About 3 year of experience building cross-platform apps for iOS and Android
-- Expert in React Navigation, Context API, and state management
-- Proficient with Expo and bare workflow deployments
-- Strong focus on pixel-perfect UI, performance, and accessibility
-- Skilled in writing clean, modular JavaScript/TypeScript code
-- Experienced with smooth animations and complex API integrations
-  
-### Full-Stack & Backend Engineering
-- Completed 3 full-stack projects using MERN (MongoDB, Express, React, Node)
-- Confident in REST API design, schema modeling, and frontend/backend integration
-- Built 2 scalable backend systems using FastAPI + MySQL, with async support
-
-### AI & Machine Learning
-- Experienced with scikit-learn (traditional ML) and TensorFlow (deep learning)
-- Built end-to-end ML pipelines for classification, computer vision, and predictive tasks
-- Published 2 peer-reviewed research papers on Hand Gesture Recognition (HGR)
-  - [Multimodal Gesture Recognition using CNN-GCN-LSTM with RGB, Depth, and Skeleton Data](https://www.ijcaonline.org/archives/volume187/number15/multimodal-gesture-recognition-using-cnn-gcn-lstm-with-rgb-depthand-skeleton-data/)
-  - [Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends](https://www.ijcaonline.org/archives/volume187/number2/hand-gesture-recognition-systems-a-review-of-methods-datasets-and-emerging-trends/)
-
-### Problem Solving & Competitive Programming
-- Solved 700+ problems across [Codeforces](https://codeforces.com/profile/vehemence), [LeetCode](https://leetcode.com/u/syfulislam763/), and [Edabit](https://edabit.com/user/bTXKg7WFmPJcEsdab)
-- Twice qualified for [ICPC](https://icpc.global/) Dhaka Regional Contest ([2023](https://drive.google.com/file/d/1uqumBvfDsJzni0GCHnexCGbPw_bvf29c/view?usp=sharing) & [2024](https://drive.google.com/file/d/1vGfocHAhqo0LsYJmrLPjAWL2FOpU_qRk/view?usp=sharing))
-- Deep understanding of Data Structures & Algorithms
-- Strong debugging, architectural thinking, and optimization skills
-
-
----
-
-## 💼 Work Experience
-
-### 📱 React Native Developer — SparkTech Agency  
-**🗓 May 2025 – Present · Onsite | Dhaka, Bangladesh**  
-- Developing scalable mobile applications using **React Native**  
-- Collaborating closely with **designers** and **backend engineers** to implement seamless **UI/UX**  
-- Integrating **REST APIs** and optimizing performance across **Android** and **iOS** platforms  
-- Maintaining code quality through **reusable components** and **state management** best practices  
-
-### 🔬 Research Assistant — CRC (Consortium Research Center)  
-**🗓 Jun 2024 – Apr 2025 · Remote | Dhaka, Bangladesh**  
-- Research Topic: **Hand Gesture Recognition and Computer Vision**  
-- Worked with **Python**, **Machine Learning**, and computer vision techniques  
-- Designed deep learning pipelines using **CNNs** and **pose-based recognition** methods
-- [Letter of Recommendation](https://drive.google.com/file/d/1g7VnCMfNQZ35mJWIGJQUeVDKfk4Kd7Me/view?usp=sharing)
-
-### 🖥️ Frontend Developer Intern(React Native) — iBOS Limited (AKIJ Group)  
-**🗓 Jun 2021 – Aug 2021 · Onsite | Dhaka, Bangladesh**  
-- Built UI components for mobile using **React Native**
-- Collaborated with backend team to implement API-integrated features  
-- Contributed to ERP modules and internal product UI flows  
 
 ---
 
